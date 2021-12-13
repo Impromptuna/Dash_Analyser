@@ -1,0 +1,9 @@
+pandas==1.3.2			#used to make and manage dataframes
+geopy==2.1.0			#used to calculate distances between points and to geocode postcodes
+folium==0.12.1			#used to visualise data extracted from dashcam videos on a map
+ttkwidgets==0.12.1		#used to extra functionality for the GUI
+branca==0.4.2			#used to make a colour map for speed lines
+altair==4.1.0			#used to plot the speed chart
+plotly==4.14.3			#used to make the timeline
+pytesseract==0.3.8		#used to read the watermarks
+opcv-python==4.5.3.56		#used to extract frames from dashcam video, crop them to the right size, and grayscale them
